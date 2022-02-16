@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 969339f8-118c-90e9-6871-cf5ba1feec81
 ---
@@ -99,9 +101,9 @@ We hope to organize a photo contest with the take-home experiments. Take photogr
 Computer Usage
 --------------
 
-Using computers to illustrate solutions of many equations encountered in 8.03 is highly encouraged. You can use any software, calculators etc. including symbolic math to help you visualize and understand the physics of waves and vibrations. It is also possible to voluntarily replace some of the take home experiments by MATLAB® projects. Talk to an instructor if you are interested in a [MATLAB](http://www.mathworks.com/)® or Mathematica® project.
+Using computers to illustrate solutions of many equations encountered in 8.03 is highly encouraged. You can use any software, calculators etc. including symbolic math to help you visualize and understand the physics of waves and vibrations. It is also possible to voluntarily replace some of the take home experiments by MATLAB{{< sup "®" >}} projects. Talk to an instructor if you are interested in a [MATLAB](http://www.mathworks.com/){{< sup "®" >}} or Mathematica{{< sup "®" >}} project.
 
-Be sure you can do all of your calculations without electronic aids as well: there will be no access to MATLAB® or other computer programs during written exams!
+Be sure you can do all of your calculations without electronic aids as well: there will be no access to MATLAB{{< sup "®" >}} or other computer programs during written exams!
 
 In-class Exams
 --------------
