@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 48081d14-959e-bb14-2f67-7b67a199c290
 resourcetype: Document
 title: anonresponse.pdf
 uid: 9801d3fe-f07a-1af0-1874-bc223e3fff6d

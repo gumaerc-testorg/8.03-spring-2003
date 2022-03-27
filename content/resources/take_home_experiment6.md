@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: dcbfd417-8c2d-cb2c-b9f9-d36db4a370fc
 resourcetype: Document
 title: take_home_experiment6.pdf
 uid: d9f8f744-7283-1fee-16ce-530097ef7b5e
