@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -80,7 +81,7 @@ Take Home Experiments Missing = Incomplete
 
 ### Homework Assignments
 
-Homework assignments will typically consist of three to six problems. Problem set 1 and 6 cover three lectures instead of two and may be longer than usual. Some problems will be from the textbooks, some will be prepared by the lecturer. The solutions need to be readable. It is important for the graders to measure your understanding of the material. You need to include all important logical steps in the derivation of the answer. Check the **"honesty" page (**[**PDF**]({{< baseurl >}}/resources/honesty)**)** of how to work together with other students.
+Homework assignments will typically consist of three to six problems. Problem set 1 and 6 cover three lectures instead of two and may be longer than usual. Some problems will be from the textbooks, some will be prepared by the lecturer. The solutions need to be readable. It is important for the graders to measure your understanding of the material. You need to include all important logical steps in the derivation of the answer. Check the **"honesty" page (**{{% resource_link 7ed43b5b-7c4a-9945-7530-053f07a672d2 "**PDF**" %}}**)** of how to work together with other students.
 
 Worked Examples
 ---------------
@@ -90,7 +91,7 @@ Each homework assignment will be accompanied by a set of examples with solutions
 Take-Home Experiments
 ---------------------
 
-You will be provided with experiment kits and an [instruction manual]({{< baseurl >}}/pages/labs) on doing several carefully designed experiments relevant to the course material at home. These kits will be available by the second week of classes. The purpose of these experiments is to give you a first hand knowledge of some of the simple physical phenomena associated with vibrations and waves. You will increase your understanding of each phenomenon by varying one or more parameters and observing the resulting changes. The key elements are that you do the experiment yourself and you see and think about the results. These experiments were not designed to teach you laboratory techniques or to train you in data analysis. None of the experiments requires an elaborate setup and in no case are you required to take and plot a set of data points.
+You will be provided with experiment kits and an {{% resource_link dcbfd417-8c2d-cb2c-b9f9-d36db4a370fc "instruction manual" %}} on doing several carefully designed experiments relevant to the course material at home. These kits will be available by the second week of classes. The purpose of these experiments is to give you a first hand knowledge of some of the simple physical phenomena associated with vibrations and waves. You will increase your understanding of each phenomenon by varying one or more parameters and observing the resulting changes. The key elements are that you do the experiment yourself and you see and think about the results. These experiments were not designed to teach you laboratory techniques or to train you in data analysis. None of the experiments requires an elaborate setup and in no case are you required to take and plot a set of data points.
 
 The experiments are meant to be short. The experiments on the Fresnel equations and on the Moiré pattern simulation of interference phenomena can be done in a few minutes. A few require planning: the sealant used for the liquid prism and the scattering experiments requires 24 hours to set. Some, such as the polarization and transmission grating experiments you can carry in your pocket and try out on a variety of sources.
 
