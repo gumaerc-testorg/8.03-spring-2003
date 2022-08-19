@@ -5,6 +5,7 @@ file: /courses/8-03-physics-iii-spring-2003/5fced7c63e759a5b5539feb68621b908_tak
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: take_home_experiment7.pdf
 uid: 5fced7c6-3e75-9a5b-5539-feb68621b908
 ---
 Thin Film Interference, Wet
-

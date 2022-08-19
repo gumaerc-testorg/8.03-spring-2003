@@ -5,6 +5,7 @@ file: /courses/8-03-physics-iii-spring-2003/c9c888895bbbc34e4846a48c3271fa14_tak
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: take_home_experiment9.pdf
 uid: c9c88889-5bbb-c34e-4846-a48c3271fa14
 ---
 Transmission Grating
-

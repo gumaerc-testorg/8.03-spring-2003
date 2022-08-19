@@ -5,6 +5,7 @@ file: /courses/8-03-physics-iii-spring-2003/082654322a54b0d5900c865d944779c6_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec14.pdf
 uid: 08265432-2a54-b0d5-900c-865d944779c6
 ---
 Dipole Radiation
-

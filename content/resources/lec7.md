@@ -5,6 +5,7 @@ file: /courses/8-03-physics-iii-spring-2003/0c173bfc3a611191a2ad297d696c02ee_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec7.pdf
 uid: 0c173bfc-3a61-1191-a2ad-297d696c02ee
 ---
 The Wave Equation, Solutions to the Wave Equation
-

@@ -5,6 +5,7 @@ file: /courses/8-03-physics-iii-spring-2003/23faf781c9da5dc27536d8302106f058_Lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lec12.pdf
 uid: 23faf781-c9da-5dc2-7536-d8302106f058
 ---
 Electromagnetic Wave Equation
-

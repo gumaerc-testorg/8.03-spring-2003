@@ -5,6 +5,7 @@ file: /courses/8-03-physics-iii-spring-2003/c5dfe1222320a603c146ccdcf8935d7d_tak
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: take_home_experiments2.pdf
 uid: c5dfe122-2320-a603-c146-ccdcf8935d7d
 ---
 Coupled Oscillator, Resonance, and Normal Modes
-

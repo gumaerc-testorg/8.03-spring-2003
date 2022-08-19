@@ -4,6 +4,7 @@ description: MIT Statement on Academic Honesty
 file: /courses/8-03-physics-iii-spring-2003/7ed43b5b7c4a99457530053f07a672d2_honesty.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: honesty.pdf
 uid: 7ed43b5b-7c4a-9945-7530-053f07a672d2
 ---
 MIT Statement on Academic Honesty
-

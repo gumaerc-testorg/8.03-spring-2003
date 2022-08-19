@@ -5,6 +5,7 @@ file: /courses/8-03-physics-iii-spring-2003/42740acaa80db7bbf75e764fa5baa49e_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec3.pdf
 uid: 42740aca-a80d-b7bb-f75e-764fa5baa49e
 ---
 Harmonically Driven Damped Harmonic Oscillator
-

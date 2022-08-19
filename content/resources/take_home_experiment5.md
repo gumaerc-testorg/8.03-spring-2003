@@ -5,6 +5,7 @@ file: /courses/8-03-physics-iii-spring-2003/258bd17b5fd79d8a8ea1bb4fdda5a000_tak
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: take_home_experiment5.pdf
 uid: 258bd17b-5fd7-9d8a-8ea1-bb4fdda5a000
 ---
 Reflection of Light: The Fresnel Equations
-

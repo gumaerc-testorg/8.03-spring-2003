@@ -5,6 +5,7 @@ file: /courses/8-03-physics-iii-spring-2003/b6f7087bf72a19b8fcdc17991a3ec92d_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec21.pdf
 uid: b6f7087b-f72a-19b8-fcdc-17991a3ec92d
 ---
 Diffraction + Interference, Diffraction Gratings
-
