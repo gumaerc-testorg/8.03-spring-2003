@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Interference
-file: /courses/8-03-physics-iii-spring-2003/8b78690242fccd4250ce6c81746aa961_lec18.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/8b78690242fccd4250ce6c81746aa961_lec18.pdf
+file_size: 151151
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

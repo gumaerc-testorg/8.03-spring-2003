@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Influence of Mass on the Damping of a Pendulum
-file: /courses/8-03-physics-iii-spring-2003/eeb0b9c10b4c89f9918c4924e089e366_take_home_experiment1.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/eeb0b9c10b4c89f9918c4924e089e366_take_home_experiment1.pdf
+file_size: 248834
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

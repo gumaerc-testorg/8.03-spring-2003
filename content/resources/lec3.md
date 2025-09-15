@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Harmonically Driven Damped Harmonic Oscillator
-file: /courses/8-03-physics-iii-spring-2003/42740acaa80db7bbf75e764fa5baa49e_lec3.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/42740acaa80db7bbf75e764fa5baa49e_lec3.pdf
+file_size: 155849
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

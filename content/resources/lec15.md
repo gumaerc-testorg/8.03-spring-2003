@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: EM Waves Meet Conductors, Transmission Lines
-file: /courses/8-03-physics-iii-spring-2003/fa93d5db29a21bc3fae792c4cce42995_lec15.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/fa93d5db29a21bc3fae792c4cce42995_lec15.pdf
+file_size: 136460
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

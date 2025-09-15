@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: EM Waves Meet Conductors, Waveguides
-file: /courses/8-03-physics-iii-spring-2003/983ccf89261c9737db2ec87711e530f3_lec16.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/983ccf89261c9737db2ec87711e530f3_lec16.pdf
+file_size: 207603
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

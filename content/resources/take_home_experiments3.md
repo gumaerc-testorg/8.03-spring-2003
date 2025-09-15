@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: 'Vibrating String: Resonance in a Continuous System'
-file: /courses/8-03-physics-iii-spring-2003/297c9dcd4e1936b2d17e730806ee7471_take_home_experiments3.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/297c9dcd4e1936b2d17e730806ee7471_take_home_experiments3.pdf
+file_size: 709437
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

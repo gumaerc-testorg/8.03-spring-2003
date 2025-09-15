@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Wave Equation in 2D and 3D, Time-independent Fourier Analysis
-file: /courses/8-03-physics-iii-spring-2003/e6dc87aa3b5b1f1783c4f061be5480d3_lec9.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/e6dc87aa3b5b1f1783c4f061be5480d3_lec9.pdf
+file_size: 155658
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

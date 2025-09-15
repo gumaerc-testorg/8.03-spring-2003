@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Coupled Oscillator, Resonance, and Normal Modes
-file: /courses/8-03-physics-iii-spring-2003/c5dfe1222320a603c146ccdcf8935d7d_take_home_experiments2.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/c5dfe1222320a603c146ccdcf8935d7d_take_home_experiments2.pdf
+file_size: 205660
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

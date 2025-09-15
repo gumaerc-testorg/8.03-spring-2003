@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: 'Reflection of Light: The Fresnel Equations'
-file: /courses/8-03-physics-iii-spring-2003/258bd17b5fd79d8a8ea1bb4fdda5a000_take_home_experiment5.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/258bd17b5fd79d8a8ea1bb4fdda5a000_take_home_experiment5.pdf
+file_size: 730982
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

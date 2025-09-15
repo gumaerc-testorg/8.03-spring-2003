@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Diffraction + Interference, Diffraction Gratings
-file: /courses/8-03-physics-iii-spring-2003/b6f7087bf72a19b8fcdc17991a3ec92d_lec21.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/b6f7087bf72a19b8fcdc17991a3ec92d_lec21.pdf
+file_size: 186496
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

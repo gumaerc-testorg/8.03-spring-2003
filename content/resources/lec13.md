@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Plane polarized EM Waves
-file: /courses/8-03-physics-iii-spring-2003/d4191185c9462174b5de609fd055b1a1_lec13.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/d4191185c9462174b5de609fd055b1a1_lec13.pdf
+file_size: 125651
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

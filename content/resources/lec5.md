@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Coupled Oscillators
-file: /courses/8-03-physics-iii-spring-2003/c892c164d60bbc9dd32c97b32925bc51_lec5.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/c892c164d60bbc9dd32c97b32925bc51_lec5.pdf
+file_size: 227503
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

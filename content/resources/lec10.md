@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Fourier Analysis
-file: /courses/8-03-physics-iii-spring-2003/1671ba43663f47a837e6ef9951073e7d_lec10.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/1671ba43663f47a837e6ef9951073e7d_lec10.pdf
+file_size: 162353
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

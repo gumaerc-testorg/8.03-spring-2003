@@ -2,10 +2,11 @@
 content_type: resource
 description: Something Old Something New, Measuring the Wavelength of Light with a
   CD and a Ruler
-file: /courses/8-03-physics-iii-spring-2003/cbb75f6c9168c59a6fead8c436883cb1_take_home_experiment10.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/cbb75f6c9168c59a6fead8c436883cb1_take_home_experiment10.pdf
+file_size: 436073
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

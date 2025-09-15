@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Complete Solution to the Harmonically Driven Oscillator
-file: /courses/8-03-physics-iii-spring-2003/307ebd0d151a84ade66c2d8540aff360_lec4.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/307ebd0d151a84ade66c2d8540aff360_lec4.pdf
+file_size: 188794
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

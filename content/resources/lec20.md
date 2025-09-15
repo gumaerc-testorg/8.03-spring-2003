@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Diffraction
-file: /courses/8-03-physics-iii-spring-2003/fee7e9ea4a091f231c659e1fbeac64ae_lec20.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/fee7e9ea4a091f231c659e1fbeac64ae_lec20.pdf
+file_size: 145586
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

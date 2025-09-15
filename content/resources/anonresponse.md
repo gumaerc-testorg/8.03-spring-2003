@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Response to questions/comments I get by email
-file: /courses/8-03-physics-iii-spring-2003/9801d3fef07a1af01874bc223e3fff6d_anonresponse.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/9801d3fef07a1af01874bc223e3fff6d_anonresponse.pdf
+file_size: 56037
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

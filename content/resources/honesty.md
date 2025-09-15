@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: MIT Statement on Academic Honesty
-file: /courses/8-03-physics-iii-spring-2003/7ed43b5b7c4a99457530053f07a672d2_honesty.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/7ed43b5b7c4a99457530053f07a672d2_honesty.pdf
+file_size: 55048
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

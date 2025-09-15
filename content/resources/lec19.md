@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Interference from Multiple Sources
-file: /courses/8-03-physics-iii-spring-2003/e8d0d7c29e3a19673ace56173afbfa57_lec19.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/e8d0d7c29e3a19673ace56173afbfa57_lec19.pdf
+file_size: 144387
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Diffraction of Light
-file: /courses/8-03-physics-iii-spring-2003/dc0ebdd542206bcafb83f4db450998a5_take_home_experiment8.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/dc0ebdd542206bcafb83f4db450998a5_take_home_experiment8.pdf
+file_size: 191349
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

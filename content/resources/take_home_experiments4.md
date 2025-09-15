@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Scattering of Light
-file: /courses/8-03-physics-iii-spring-2003/1c115e43ae901461b92a7b9d459945c7_take_home_experiments4.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/1c115e43ae901461b92a7b9d459945c7_take_home_experiments4.pdf
+file_size: 166819
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Driven Coupled Oscillators
-file: /courses/8-03-physics-iii-spring-2003/dc03ae8684da78175e5016ccd033dfba_lec6.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/dc03ae8684da78175e5016ccd033dfba_lec6.pdf
+file_size: 141077
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

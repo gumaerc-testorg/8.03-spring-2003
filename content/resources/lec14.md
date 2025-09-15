@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Dipole Radiation
-file: /courses/8-03-physics-iii-spring-2003/082654322a54b0d5900c865d944779c6_lec14.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/082654322a54b0d5900c865d944779c6_lec14.pdf
+file_size: 158978
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

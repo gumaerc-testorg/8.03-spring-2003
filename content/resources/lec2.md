@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Physics 8.03 Vibrations and Waves: Lecture 2'
-file: /courses/8-03-physics-iii-spring-2003/dc07e93ed4c1e784e25cd2dee97a3e54_lec2.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/dc07e93ed4c1e784e25cd2dee97a3e54_lec2.pdf
+file_size: 164373
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

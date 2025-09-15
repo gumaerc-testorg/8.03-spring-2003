@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Thin Film Interference, Wet
-file: /courses/8-03-physics-iii-spring-2003/5fced7c63e759a5b5539feb68621b908_take_home_experiment7.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/5fced7c63e759a5b5539feb68621b908_take_home_experiment7.pdf
+file_size: 320829
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

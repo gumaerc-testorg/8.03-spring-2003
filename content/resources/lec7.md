@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: The Wave Equation, Solutions to the Wave Equation
-file: /courses/8-03-physics-iii-spring-2003/0c173bfc3a611191a2ad297d696c02ee_lec7.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/0c173bfc3a611191a2ad297d696c02ee_lec7.pdf
+file_size: 171601
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

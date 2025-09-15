@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Electromagnetic Wave Equation
-file: /courses/8-03-physics-iii-spring-2003/23faf781c9da5dc27536d8302106f058_Lec12.pdf
+file: /ol-ocw-studio-app/courses/8-03-physics-iii-spring-2003/23faf781c9da5dc27536d8302106f058_Lec12.pdf
+file_size: 128301
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
